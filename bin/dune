@@ -1,0 +1,4 @@
+(executable
+ (public_name EarleyParser)
+ (name main)
+ (libraries str EarleyParser))
